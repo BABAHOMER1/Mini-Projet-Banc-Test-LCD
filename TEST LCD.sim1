@@ -8,6 +8,8 @@
 
 <item itemtype="Ground" CircId="Ground-4" mainComp="false" Show_id="false" Show_Val="false" Pos="-288,-20" rotation="0" hflip="1" vflip="1" label="Ground-4" idLabPos="-16,8" labelrot="0" valLabPos="-16,20" valLabRot="0" />
 
+<item itemtype="Push" CircId="Push-5" mainComp="false" Show_id="false" Show_Val="false" Pos="-236,60" rotation="0" hflip="1" vflip="1" label="Push-5" idLabPos="-16,-24" labelrot="0" valLabPos="-16,20" valLabRot="0" Norm_Close="false" Poles="1" />
+
 <item itemtype="Connector" uid="Connector-1" startpinid="Ground-4-Gnd" endpinid="Hd44780-3-PinRW" pointList="-288,-36,-288,-52" />
 
 <item itemtype="Connector" uid="Connector-2" startpinid="Hd44780-3-PinRS" endpinid="Uno-1-12" pointList="-296,-52,-296,104,-172,104" />
@@ -21,5 +23,9 @@
 <item itemtype="Connector" uid="Connector-6" startpinid="Hd44780-3-dataPin5" endpinid="Uno-1-4" pointList="-232,-52,-232,32,-172,32" />
 
 <item itemtype="Connector" uid="Connector-7" startpinid="Uno-1-5" endpinid="Hd44780-3-dataPin4" pointList="-172,40,-240,40,-240,-52" />
+
+<item itemtype="Connector" uid="Connector-8" startpinid="Push-5-switch0pinN" endpinid="Uno-1-7" pointList="-220,60,-172,60,-172,56" />
+
+<item itemtype="Connector" uid="Connector-9" startpinid="Push-5-pinP0" endpinid="Uno-1-GND2" pointList="-252,60,-252,120,-172,120" />
 
 </circuit>
