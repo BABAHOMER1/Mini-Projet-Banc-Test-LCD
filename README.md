@@ -5,7 +5,7 @@
 Ce projet a pour objectif de réaliser un banc d'essais permettant de tester des écrans LCD.
 
 Les écrans proviennent d'un lot donné à l'établissement et leur fonctionnement n'est pas garanti.
-Le banc d'essais permet donc de vérifier rapidement si un écran fonctionne correctement et s'il peut être réutilisé dans de futurs projets.
+Le banc d'essais permet donc de vérifier rapidement si un écran fonctionne correctement.
 
 ## Objectifs
 
